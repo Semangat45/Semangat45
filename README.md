@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adhi Setyatuhu
-- 👀 I like buiding apps with Django and Flutter
+- 👀 I like buiding apps with Django
 
 <!---
 Semangat45/Semangat45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
